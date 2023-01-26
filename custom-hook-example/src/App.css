@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+}
+
+.input-container {
+  height: 15%;
+  width: 100%;
+  display: flex;
+  margin: auto;
+}
+
+.input-field {
+  width: 60%;
+  display: flex;
+  margin: auto;
+  height: 50%;
+  font-size: 20px;
+  /* padding-left: 30px; */
+  text-align: center;
+}
